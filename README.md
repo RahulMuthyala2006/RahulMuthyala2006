@@ -1,14 +1,14 @@
-# Hi 👋, I'm Rahul Muthyala
+# Hi  I'm Rahul Muthyala
 
 ## About Me
 
 I'm a Computer Science and Engineering (CSE) student passionate about software development and problem-solving. I enjoy building practical applications that solve real-world problems and continuously improving my programming skills.
 
-🌱 Currently learning **Full Stack Development**
+Currently learning **Full Stack Development**
 
-🎯 Focused on building **real-world projects**
+ Focused on building **real-world projects**
 
-💡 Interested in Web Development, Java, and Database Management
+ Interested in Web Development, Java, and Database Management
 
 ---
 
@@ -36,7 +36,7 @@ I'm a Computer Science and Engineering (CSE) student passionate about software d
 
 ## Projects
 
-### 🎓 College Complaint Booking System (CCBMS)
+###  College Complaint Booking System (CCBMS)
 
 A web-based application that allows students to register complaints and track their status.
 
@@ -50,13 +50,13 @@ A web-based application that allows students to register complaints and track th
 
 ---
 
-### 🚗 SafeStride
+###  SafeStride
 
 A safety-focused application designed to improve secure travel and user safety through modern web technologies.
 
 ---
 
-### 📝 Registration Forms
+###  Registration Forms
 
 Simple responsive registration forms developed using HTML, CSS, and JavaScript.
 
@@ -97,9 +97,9 @@ Simple responsive registration forms developed using HTML, CSS, and JavaScript.
 
 ## GitHub Stats
 
-- 🌱 Learning every day
-- 💻 Building practical projects
-- 🚀 Exploring Full Stack Development
+- Learning every day
+-  Building practical projects
+-  Exploring Full Stack Development
 
 ---
 
@@ -109,4 +109,4 @@ Simple responsive registration forms developed using HTML, CSS, and JavaScript.
 
 ---
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
