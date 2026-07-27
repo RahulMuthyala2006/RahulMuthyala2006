@@ -1,112 +1,66 @@
 # Hi  I'm Rahul Muthyala
 
-## About Me
+I'm a **B.Tech Computer Science and Engineering (CSE)** student at **Mahatma Gandhi Institute of Technology (MGIT), Hyderabad**. I enjoy exploring new technologies, learning new concepts, and building projects that solve real-world problems. I'm currently learning **Full Stack Development** and continuously improving my programming and problem-solving skills.
 
-I'm a Computer Science and Engineering (CSE) student passionate about software development and problem-solving. I enjoy building practical applications that solve real-world problems and continuously improving my programming skills.
+##  Education
 
-Currently learning **Full Stack Development**
+- **Bachelor of Technology (B.Tech)**
+- **Computer Science and Engineering**
+- **Mahatma Gandhi Institute of Technology (MGIT), Hyderabad**
 
- Focused on building **real-world projects**
-
- Interested in Web Development, Java, and Database Management
-
----
-
-## Skills
+##  Skills
 
 - Java
 - JavaScript
 - SQL
-- HTML5
-- CSS3
+- C++
+- Data Structures & Algorithms (DSA)
+- HTML
+- CSS
 - Git & GitHub
 
----
-
-## Currently Learning
+##  Currently Learning
 
 - Full Stack Development
-- Frontend Development
-- Backend Development
+- Frontend & Backend Development
 - REST APIs
 - Database Integration
-- Project Deployment
 
----
-
-## Projects
+##  Projects
 
 ###  College Complaint Booking System (CCBMS)
 
-A web-based application that allows students to register complaints and track their status.
-
-**Features**
-- Student Login
-- Complaint Registration
-- Complaint Tracking
-- Admin Dashboard
-- Status Updates
-- User-Friendly Interface
-
----
+A web-based complaint management system that allows students to submit complaints, track their complaint status, and enables administrators to manage and resolve complaints efficiently.
 
 ###  SafeStride
 
-A safety-focused application designed to improve secure travel and user safety through modern web technologies.
+A web application focused on improving user safety through technology. This project helped me gain hands-on experience in designing and developing practical real-world solutions.
 
----
+##  Strengths
 
-###  Registration Forms
+- Quick Learner
+- Problem Solver
+- Self-Motivated
+- Team Player
+- Adaptable to New Technologies
 
-Simple responsive registration forms developed using HTML, CSS, and JavaScript.
+##  Interests
 
-- Student Registration Form (`reg.html`)
-- Faculty Registration Form (`faculty.html`)
-- Employee Registration Form (`emp.html`)
+- Exploring New Technologies
+- Web Development
+- Building Real-World Projects
+- Learning Modern Software Development Practices
 
-**Features**
-- Form Validation
-- Responsive Design
-- Clean User Interface
-- Success Message Display
+## Tools
 
----
-
-## Tools & Technologies
-
-- Java
-- JavaScript
-- SQL
-- HTML
-- CSS
+- Visual Studio Code
 - Git
 - GitHub
-- VS Code
+
+##  Connect with Me
+
+- **GitHub:** https://github.com/RahulMuthyala2006
 
 ---
 
-## Goals
-
-- Build more real-world projects
-- Improve Full Stack Development skills
-- Learn modern web technologies
-- Contribute to open-source projects
-- Become a skilled Software Developer
-
----
-
-## GitHub Stats
-
-- Learning every day
--  Building practical projects
--  Exploring Full Stack Development
-
----
-
-## Connect With Me
-
-- GitHub: https://github.com/RahulMuthyala2006
-
----
-
- Thanks for visiting my profile!
+*"I believe that continuous learning and building practical projects are the best ways to grow as a software developer."*
