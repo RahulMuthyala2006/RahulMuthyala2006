@@ -1,139 +1,112 @@
-# Git and GitHub Commands
+# Hi 👋, I'm Rahul Muthyala
 
-## Student Details
+## About Me
 
-**Name:** Rahul Muthyala  
-**Roll Number:** 25265A0506  
-**Branch:** Computer Science and Engineering (CSE)  
-**College:** Mahatma Gandhi Institute of Technology (MGIT)
+I'm a Computer Science and Engineering (CSE) student passionate about software development and problem-solving. I enjoy building practical applications that solve real-world problems and continuously improving my programming skills.
 
----
+🌱 Currently learning **Full Stack Development**
 
-## Aim
+🎯 Focused on building **real-world projects**
 
-To learn the basic Git and GitHub commands used for version control and connect a local repository with a GitHub repository.
+💡 Interested in Web Development, Java, and Database Management
 
 ---
 
-## Tools Required
+## Skills
 
+- Java
+- JavaScript
+- SQL
+- HTML5
+- CSS3
+- Git & GitHub
+
+---
+
+## Currently Learning
+
+- Full Stack Development
+- Frontend Development
+- Backend Development
+- REST APIs
+- Database Integration
+- Project Deployment
+
+---
+
+## Projects
+
+### 🎓 College Complaint Booking System (CCBMS)
+
+A web-based application that allows students to register complaints and track their status.
+
+**Features**
+- Student Login
+- Complaint Registration
+- Complaint Tracking
+- Admin Dashboard
+- Status Updates
+- User-Friendly Interface
+
+---
+
+### 🚗 SafeStride
+
+A safety-focused application designed to improve secure travel and user safety through modern web technologies.
+
+---
+
+### 📝 Registration Forms
+
+Simple responsive registration forms developed using HTML, CSS, and JavaScript.
+
+- Student Registration Form (`reg.html`)
+- Faculty Registration Form (`faculty.html`)
+- Employee Registration Form (`emp.html`)
+
+**Features**
+- Form Validation
+- Responsive Design
+- Clean User Interface
+- Success Message Display
+
+---
+
+## Tools & Technologies
+
+- Java
+- JavaScript
+- SQL
+- HTML
+- CSS
 - Git
-- GitHub Account
-- Windows Command Prompt
-- Internet Connection
+- GitHub
+- VS Code
 
 ---
 
-## Procedure
+## Goals
 
-### Step 1: Check Git Version
-
-```bash
-git --version
-```
-
-Output:
-
-```text
-git version 2.55.0.windows.3
-```
+- Build more real-world projects
+- Improve Full Stack Development skills
+- Learn modern web technologies
+- Contribute to open-source projects
+- Become a skilled Software Developer
 
 ---
 
-### Step 2: Initialize Git Repository
+## GitHub Stats
 
-```bash
-git init
-```
-
----
-
-### Step 3: Check Repository Status
-
-```bash
-git status
-```
+- 🌱 Learning every day
+- 💻 Building practical projects
+- 🚀 Exploring Full Stack Development
 
 ---
 
-### Step 4: Add Files
+## Connect With Me
 
-```bash
-git add .
-```
+- GitHub: https://github.com/RahulMuthyala2006
 
 ---
 
-### Step 5: Commit Files
-
-```bash
-git commit -m "First Commit"
-```
-
----
-
-### Step 6: Connect Local Repository to GitHub
-
-```bash
-git remote set-url origin https://github.com/RahulMuthyala2006/25265A0506.git
-```
-
----
-
-### Step 7: Verify Remote Repository
-
-```bash
-git remote -v
-```
-
----
-
-### Step 8: Rename Branch
-
-```bash
-git branch -M main
-```
-
----
-
-### Step 9: Push Project to GitHub
-
-```bash
-git push -u origin main
-```
-
----
-
-## Git Commands Used
-
-| Command | Purpose |
-|---------|---------|
-| `git --version` | Check installed Git version |
-| `git init` | Initialize a Git repository |
-| `git status` | Check repository status |
-| `git add .` | Add all files to staging area |
-| `git commit -m "First Commit"` | Save changes |
-| `git remote set-url origin <repository-url>` | Connect local repository to GitHub |
-| `git remote -v` | Display remote repository |
-| `git branch -M main` | Rename branch to main |
-| `git push -u origin main` | Upload project to GitHub |
-
----
-
-## GitHub Repository
-
-**Repository:**  
-https://github.com/RahulMuthyala2006/25265A0506
-
----
-
-## Result
-
-Successfully initialized a Git repository, committed the project files, connected the local repository to GitHub, and pushed the project to the remote repository.
-
----
-
-## Author
-
-**Rahul Muthyala**  
-**Roll Number:** 25265A0506=
+⭐ Thanks for visiting my profile!
