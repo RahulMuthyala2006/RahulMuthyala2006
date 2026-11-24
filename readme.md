@@ -13,7 +13,6 @@ I'm a **B.Tech Computer Science and Engineering (CSE)** student at **Mahatma Gan
 - Java
 - JavaScript
 - SQL
-- C++
 - Data Structures & Algorithms (DSA)
 - HTML
 - CSS
